@@ -70,4 +70,6 @@ if __name__ == "__main__":
     #running every 5 seconds
     # while True:
     #     threading.Timer(5.0, main()).start()
+    key = input("Input Fernet Key: ")
+    config.FERNET_KEY = key.encode('ascii')
     main()
