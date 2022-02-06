@@ -1,6 +1,7 @@
 # TwitterBot
 
-MagicEden Marketplace Latest Sale Bot:
+MagicEden Marketplace Latest Sale Bot.
+
 Note: Encrypted config file values using Fernet to protect Twitter bot access.
 
 1) Application scrapes MagicEden marketplace for latest sale.
